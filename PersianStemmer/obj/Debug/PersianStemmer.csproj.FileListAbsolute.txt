@@ -1,0 +1,4 @@
+D:\Development\Windows\Others\PersianStemmer-CSharp\PersianStemmer\bin\Debug\PersianStemmer.exe
+D:\Development\Windows\Others\PersianStemmer-CSharp\PersianStemmer\bin\Debug\PersianStemmer.pdb
+D:\Development\Windows\Others\PersianStemmer-CSharp\PersianStemmer\obj\Debug\PersianStemmer.exe
+D:\Development\Windows\Others\PersianStemmer-CSharp\PersianStemmer\obj\Debug\PersianStemmer.pdb
