@@ -391,7 +391,7 @@ namespace Stemming
         public TValue ContainsKey(String s_in)
 		{
             TrieNodeBase node = FindNode(s_in);
-            if (node == null || String.IsNullOrEmpty(node.Value.ToString()))
+            if (node == null || !node.HasValue())
                 return default(TValue);
 			return node.Value;
 		}
